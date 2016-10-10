@@ -1,0 +1,21 @@
+{
+  "name": "homebridge-lifedomus-activhome",
+  "version": "0.0.1",
+  "description": "Gateway to connect homebridge with LifeDomus",
+  "license": "GNU",
+  "keywords": [
+    "homebridge-plugin",
+    "lifedomus"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hourad/homebridge-lifedomus-activhome.git"
+  },
+  "bugs": {
+    "url": "http://github.com/hourad/homebridge-lifedomus-activhome/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  }
+}
